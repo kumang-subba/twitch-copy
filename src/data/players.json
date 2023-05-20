@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Bob",
+    "game": "World of Warcraft",
+    "count": 200,
+    "desc": "Welcome",
+    "avatar": "/images/bob.jpg",
+    "tags": ["English"]
+  },
+  {
+    "name": "John",
+    "game": "Mario",
+    "count": 20,
+    "desc": "Hello",
+    "avatar": "/images/john.jpg",
+    "tags": ["SpeedRuns"]
+  },
+  {
+    "name": "Sarah",
+    "game": "Dota 2",
+    "count": 20350,
+    "desc": "Hi",
+    "avatar": "/images/sarah.jpg",
+    "tags": ["Carry", "Immortal"]
+  },
+  {
+    "name": "Jill",
+    "game": "Chess",
+    "count": 1589,
+    "desc": "How are you?",
+    "avatar": "/images/jill.jpg",
+    "tags": ["English", "Educational"]
+  },
+  {
+    "name": "Zod",
+    "game": "Poker",
+    "count": 2203,
+    "desc": "Wish me luck",
+    "avatar": "/images/zod.jpg",
+    "tags": ["English", "Pro"]
+  },
+  {
+    "name": "Jenny",
+    "game": "Minecraft",
+    "count": 4023,
+    "desc": "Gaming",
+    "avatar": "/images/jenny.jpg",
+    "tags": ["Chill", "Spanish"]
+  },
+  {
+    "name": "Max",
+    "game": "World of Warcraft",
+    "count": 24334,
+    "desc": "RWF",
+    "avatar": "/images/max.jpg",
+    "tags": ["English", "RWF"]
+  }
+]
