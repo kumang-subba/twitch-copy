@@ -7,9 +7,10 @@ type VideoProps = {
   viewers: number;
   title: string;
   game: string;
+  desc: string;
   avatar: string;
 };
-function Video({ name, src, viewers, title, game, avatar }: VideoProps) {
+function Video({ name, src, viewers, title, game, desc, avatar }: VideoProps) {
   const { kFormatter } = useDarkModeContext();
   const randomColor = `hsl(${Math.floor(Math.random() * 360)}deg, 80%, 50%)`;
   return (

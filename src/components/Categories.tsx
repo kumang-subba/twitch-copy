@@ -15,7 +15,7 @@ function Categories() {
             },
           }}
         >
-          <img src="/images/wow.jpg" style={{ width: "130px" }} />
+          <img src="./images/wow.jpg" style={{ width: "130px" }} />
         </Stack>
         <Typography fontWeight={"bold"} fontSize={13}>
           World of Warcraft

@@ -4,7 +4,7 @@
     "game": "World of Warcraft",
     "count": 200,
     "desc": "Welcome",
-    "avatar": "/images/bob.jpg",
+    "avatar": "./images/bob.jpg",
     "tags": ["English"]
   },
   {
@@ -12,7 +12,7 @@
     "game": "Mario",
     "count": 20,
     "desc": "Hello",
-    "avatar": "/images/john.jpg",
+    "avatar": "./images/john.jpg",
     "tags": ["SpeedRuns"]
   },
   {
@@ -20,7 +20,7 @@
     "game": "Dota 2",
     "count": 20350,
     "desc": "Hi",
-    "avatar": "/images/sarah.jpg",
+    "avatar": "./images/sarah.jpg",
     "tags": ["Carry", "Immortal"]
   },
   {
@@ -28,7 +28,7 @@
     "game": "Chess",
     "count": 1589,
     "desc": "How are you?",
-    "avatar": "/images/jill.jpg",
+    "avatar": "./images/jill.jpg",
     "tags": ["English", "Educational"]
   },
   {
@@ -36,7 +36,7 @@
     "game": "Poker",
     "count": 2203,
     "desc": "Wish me luck",
-    "avatar": "/images/zod.jpg",
+    "avatar": "./images/zod.jpg",
     "tags": ["English", "Pro"]
   },
   {
@@ -44,7 +44,7 @@
     "game": "Minecraft",
     "count": 4023,
     "desc": "Gaming",
-    "avatar": "/images/jenny.jpg",
+    "avatar": "./images/jenny.jpg",
     "tags": ["Chill", "Spanish"]
   },
   {
@@ -52,7 +52,7 @@
     "game": "World of Warcraft",
     "count": 24334,
     "desc": "RWF",
-    "avatar": "/images/max.jpg",
+    "avatar": "./images/max.jpg",
     "tags": ["English", "RWF"]
   }
 ]
