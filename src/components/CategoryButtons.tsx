@@ -23,7 +23,13 @@ const StyledTypography = styled(Typography)({
 
 function CategoryButtons() {
   return (
-    <Stack mt={2} direction={"row"} justifyContent={"space-between"} gap={1}>
+    <Stack
+      mt={2}
+      direction={"row"}
+      justifyContent={"space-between"}
+      gap={1}
+      display={{ xs: "none", sm: "none", md: "none", lg: "flex" }}
+    >
       <StyledButtonBase>
         <StyledTypography>Games</StyledTypography>
         <img

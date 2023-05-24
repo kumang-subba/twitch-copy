@@ -95,7 +95,7 @@ function VideoCarousel() {
     <Box
       sx={{
         height: "350px",
-        display: "flex",
+        display: { xs: "none", sm: "none", md: "flex", lg: "flex" },
         justifyContent: "space-around",
         alignItems: "center",
       }}

@@ -4,7 +4,7 @@ import MainContent from "./MainContent";
 
 const Content = () => {
   return (
-    <Box display="flex">
+    <Box display="flex" sx={{ m: 0, p: 0 }}>
       <SideBar />
       <MainContent />
     </Box>

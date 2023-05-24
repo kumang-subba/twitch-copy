@@ -14,7 +14,7 @@ const MainContent = () => {
         overflow: "auto",
         height: "auto",
         pl: 4,
-        pr: 3,
+        pr: { sm: 0, md: 3 },
         pb: 5,
         backgroundColor: (theme) =>
           theme.palette.mode === "dark"

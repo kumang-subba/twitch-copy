@@ -39,6 +39,9 @@ const Drawer = styled(MuiDrawer, {
       }),
       width: theme.spacing(4.2),
     }),
+    [theme.breakpoints.down("md")]: {
+      display: "none",
+    },
   },
 }));
 
@@ -88,7 +91,7 @@ const SideBar = () => {
           left: 5,
           mt: 1,
           width: 225,
-          display: "flex",
+          display: { sm: "none", md: "flex" },
           flexDirection: "column",
           ...(!drawerOpen && {
             overflowX: "hidden",
